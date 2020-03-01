@@ -1,0 +1,52 @@
+  <div class="row">
+      <div>
+        <div class="input-group col-md-6" id="searchinput" style="width: 36%;margin-left: 33%;padding-bottom: 2%;">
+          <input type="text" class="form-control"  placeholder="Search....." #val />
+          <span class="input-group-btn">
+            <button class="btn btn-info" (click)="search(val.value)" type="button">
+              <span class=" glyphicon glyphicon-search"></span>
+            </button>
+            <button class="btn btn-danger" (click)="GetProducts()" type="button">
+               Clear
+              </button>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-12 table-responsive" #TABLE #table *ngIf="allProducts">  
+      <div style="padding-bottom: 10px;padding-top: 10px;">  
+        <div class="row">  
+          <div class="col-sm-12">  
+            <button (click)="ExportTOExcel()" class="btn btn-success">ExportTOExcel</button> </div>  
+        </div>  
+      </div>  
+<table class="table table-striped w-auto" *ngIf="allProducts">
+    <!--Table head-->
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>CreateDate</th>
+        <th>LastUpdata</th>
+        <th>Photo</th>
+      </tr>
+    </thead>
+    <!--Table head-->
+  
+    <!--Table body-->
+    <tbody>
+      <tr class="table-info"*ngFor="let item of allProducts" id="info">
+        <td>{{item.id}}</td>
+        <td>{{item.name}}</td>
+        <td>{{item.price}}</td>
+        <td>{{item.createDate}}</td>
+        <td>{{item.lastUpdate}}</td>
+        <td><img class="img-circle" [src]="url+item.url" id="img"></td>
+        <td><button type="button" (click)="editProduct(item.id)" class="btn btn-success" style="width: 30%">Edit</button> &nbsp;&nbsp; <button type="button" (click)="deleteProduct(item.id)" class="btn btn-danger"style="width: 30%"> Delete</button>
+        </td>
+      </tr>
+    </tbody>
+    <!--Table body-->
+  </table>
+  <!--Table-->
