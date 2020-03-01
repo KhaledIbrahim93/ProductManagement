@@ -1,0 +1,36 @@
+<div class="container">
+    <h2>Edit Product</h2>
+    <form class="form-horizontal" [formGroup]="productform">
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="email">Name:</label>
+            <div class="col-sm-10">
+                <input type="text" formControlName="productName" class="form-control" id="name" placeholder="Enter Name" name="email">
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="pwd">Price:</label>
+            <div class="col-sm-10">
+                <input type="number" formControlName="productPrice" class="form-control" id="price" placeholder="Enter Price" name="pwd">
+            </div>
+        </div>
+        <div class="form-group">
+                <label class="control-label col-sm-2" for="pwd">Image:</label>
+                <div class="col-sm-10">
+                        <img class="img-circle" [src]="url" id="img">
+                    <!-- <input type="file"  formControlName="productImage"  class="form-control" placeholder="ProductImage" (change)="onFileChanged($event)" name="pwd"> -->
+                </div>
+            </div>
+        <div class="form-group">
+                <label class="control-label col-sm-2" for="pwd"></label>
+
+            <div class="col-sm-10">
+                <input type="file"   class="form-control" placeholder="ProductImage" (change)="onFileChanged($event)" name="pwd">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button type="button" (click)="editProduct()" class="btn btn-default">Edit Product</button>
+            </div>
+        </div>
+    </form>
+</div>

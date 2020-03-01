@@ -1,0 +1,16 @@
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\bin\Debug\netcoreapp2.2\ProductBLL.deps.json
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\bin\Debug\netcoreapp2.2\ProductBLL.dll
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\bin\Debug\netcoreapp2.2\ProductBLL.pdb
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\bin\Debug\netcoreapp2.2\ProductDAL.dll
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\bin\Debug\netcoreapp2.2\ProductDAL.pdb
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\obj\Debug\netcoreapp2.2\ProductBLL.csprojAssemblyReference.cache
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\obj\Debug\netcoreapp2.2\ProductBLL.csproj.CoreCompileInputs.cache
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\obj\Debug\netcoreapp2.2\ProductBLL.AssemblyInfoInputs.cache
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\obj\Debug\netcoreapp2.2\ProductBLL.AssemblyInfo.cs
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\obj\Debug\netcoreapp2.2\ProductBLL.csproj.CopyComplete
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\obj\Debug\netcoreapp2.2\ProductBLL.dll
+D:\Demos\SmartTechTask\ProductCatalogAPI\Product.BLL\obj\Debug\netcoreapp2.2\ProductBLL.pdb

@@ -1,0 +1,11 @@
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\Product.DAL.deps.json
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\Product.DAL.runtimeconfig.json
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\Product.DAL.runtimeconfig.dev.json
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\Product.DAL.dll
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\Product.DAL.pdb
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\Product.DAL.csproj.CoreCompileInputs.cache
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\Product.DAL.AssemblyInfoInputs.cache
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\Product.DAL.AssemblyInfo.cs
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\Product.DAL.dll
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\Product.DAL.pdb
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\Product.DAL.csprojAssemblyReference.cache

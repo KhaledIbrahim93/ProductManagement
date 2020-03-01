@@ -1,0 +1,10 @@
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\ProductContext.deps.json
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\ProductContext.dll
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\ProductContext.csproj.CoreCompileInputs.cache
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\ProductContext.AssemblyInfoInputs.cache
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\ProductContext.AssemblyInfo.cs
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\ProductContext.pdb
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\ProductContext.dll
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\obj\Debug\netcoreapp2.2\ProductContext.pdb
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\ProductContext.runtimeconfig.json
+D:\Demos\SmartTechTask\ProductCatalogAPI\ProductContext\bin\Debug\netcoreapp2.2\ProductContext.runtimeconfig.dev.json
